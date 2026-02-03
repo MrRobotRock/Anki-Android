@@ -117,7 +117,10 @@ License
 -------
 * [GPL-3.0 License](https://github.com/ankidroid/Anki-Android/blob/main/COPYING)
 * [AGPL-3.0 License](https://github.com/ankitects/anki/blob/main/LICENSE) for some part of the back-end
+
 * [LGPL-3.0 License](https://github.com/ankidroid/Anki-Android/blob/main/api/COPYING.LESSER) for the AnkiDroid API
 
-
 okay, great job!
+quero pipoca com sal
+limão com mel 
+abacate
